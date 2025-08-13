@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-- 😄 Pronouns: ...
+As a seasoned IT Consultant and Infrastructure Specialist, I bring over two decades of hands-on experience in providing high-level technical consulting, systems administration, and infrastructure management for organizations across various industries. Currently, I serve as a Principal Consultant at Further Thinking Consulting Ltd, where I specialize in Linux consulting, virtualization, and systems optimization.
+Throughout my career, I have successfully led complex projects, including network infrastructure rollouts, datacenter migrations, and the implementation of enterprise-level IT solutions. My technical expertise spans across Red Hat Linux, VMware, MySQL clustering, Windows, Cisco and other technolgies, as well as disaster recovery planning and execution. I have a proven track record of delivering results through efficient system designs, automation tools, and creating cost-effective, scalable solutions for both large enterprises and small businesses.
+Previously, I worked in various roles, including System Engineer and Infrastructure Consultant at leading companies like William Hill, C-Ways Ltd, and Homeserve. I have designed and deployed multiple Linux-based systems, built custom storage solutions, and played a key role in critical service migrations. My work has also involved hands-on experience with system security, virtualization platforms like VMware, and load balancing technologies.
+In addition to my technical skills, I’m passionate about problem-solving, continuous learning, and fostering collaborative relationships with clients to ensure their IT infrastructure meets evolving business needs. Through ongoing professional education, I remain committed to staying on the cutting edge of emerging technologies and enhancing my strategic consultancy approach.
   
 - 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning ...
   
 - 👯 I’m looking to collaborate on ...
+
+  I am always open to connecting with like-minded professionals and organizations seeking to optimize their IT infrastructure, improve system performance, or require guidance in navigating complex technical challenges.
   
 - 💬 Ask me about ...
   
 - 📫 How to reach me: ...
+
+  Linkedin: https://www.linkedin.com/in/christopherboczko/
+  Web: http://www.furtherthinking.net
+  Email: Chris@furtherthinking.net
   
 
 
